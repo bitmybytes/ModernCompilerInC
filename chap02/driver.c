@@ -29,7 +29,7 @@ int main(int argc, char **argv)
     
     if (argc != 2) {
 
-        fprintf(stderr, "usage: a.out filename\n");
+        fprintf(stderr, "usage: lextext filename\n");
         exit(1);
     }
 
